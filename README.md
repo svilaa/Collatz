@@ -11,4 +11,4 @@ Python 2.7
 
 collatz-python2.py: 103 characters
 
-collatz2.py: 109 characters
+collatz2-python2.py: 108 characters
