@@ -13,7 +13,7 @@ If collatz3-python2.py program is written in the Python Command Line, the print 
 ```python2
 a=_=0
 for n in range(1,100001):
-	c=1;N=n
+	c,N=1,n
 	while n>1:n=(n/2,n*3+1)[n%2];c+=1
 	if c>a:a,_=c,N
 _
