@@ -64,20 +64,10 @@ for _ in range((""==""),(((""=="")+(""=="")+(""=="")+(""=="")+(""=="")+(""=="")+
 ___
 ```
 
-**10** characters writing collatz_underscore_pcl_3.py in PCL and range \[1, 100000\] (python 3.8). Only words for, in and while, added \~- and -\~ operations to avoid n!=1 and c+=1, changed //2 to >>1:
+**10** characters writing collatz_underscore_pcl_4.py in PCL and range \[1, 100000\] (python 3.8). Only words for, in and while, added \~- and -\~ operations to avoid n!=1 and c+=1, changed //2 to >>1:
 
 ```python3
-_ = (""=="")
-__ = _+_
-___ = __+_
-____ = ___+_
-_____ = ____+_
-______ = _____+_
-_______ = ______+_
-________ = _______+_
-_________ = ________+_
-__________ = _________+_
-______________ = (""!="")
+_=''=='';__=_+_;___=__+_;____=___+_;_____=____+_;______=_____+_;_______=______+_;________=_______+_;_________=________+_;__________=_________+_;______________=~-_
 ___________ = [ ...avoided, check full file... ]
 
 ____________=_____________=______________
