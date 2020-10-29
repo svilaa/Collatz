@@ -98,7 +98,7 @@ while __<(((-~-~_+-~_)*-~_)**(-~-~_+-~_)+_):
 ```
 
 
-Just the calculation in ChinesePython, **0 characters**:
+Just the calculation in [Chinese Python](http://reganmian.net/blog/2008/11/21/chinese-python-translating-a-programming-language/), **0 characters**, while is 當:
 ```python3
 _=''=='';____=_____=~-_;__=_
 當 __<(((-~-~_+-~_)*-~_)**(-~-~_+-~_)+_):
